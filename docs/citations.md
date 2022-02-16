@@ -13,3 +13,5 @@ Conners, Rachel. "Vegan Apple Oatmeal Muffins." *Bakerita*, 23 Sept.
 Overhiser, Author: Sonja, et al. "Vegan Waffles." *A Couple Cooks*, 26
 June 2021, https://www.acouplecooks.com/vegan-waffles/.
 
+
+{% include footer.md %}
