@@ -37,3 +37,5 @@ height="3.1805555555555554in"}
 2.  Heat an oiled pan over medium heat. Pour 1/4^th^ cup of batter onto
     it and cook until browned on both sides.
 
+
+{% include footer.md %}
