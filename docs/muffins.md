@@ -94,4 +94,3 @@ Small bowl
     outside
 
 
-{% include footer.md %}

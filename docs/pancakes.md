@@ -38,4 +38,4 @@ height="3.1805555555555554in"}
     it and cook until browned on both sides.
 
 
-{% include footer.md %}
+
