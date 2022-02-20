@@ -28,7 +28,7 @@ height="3.1805555555555554in"}
 
 1 Pan
 
-**Directions:**
+## Directions:
 
 1.  In the large bowl, mix the flour, baking powder, salt, and sugar.
     Pour the milk, eggs, and melted butter in the center and begin to

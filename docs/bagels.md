@@ -1,31 +1,38 @@
-## Steak, egg, and cheese bagel (Non Vegan)
+# Steak, egg, and cheese bagel (Non Vegan)
 
 ## ![A cheeseburger on a plate Description automatically generated](images/media/image3.jpg){width="6.0in" height="4.225694444444445in"}
 
 Pictured above is the final result of the steak, egg, and cheese bagel
-recepie
+recipe
 
-**Ingredients:**
+## Ingredients:
 
-+-----------------------------------+-----------------------------------+
-| 4 Tablespoons of unsalted butter  | ½ teaspoon of garlic powder       |
-|                                   |                                   |
-| 1 small, diced onion              | ½ teaspoon of ground black pepper |
-|                                   |                                   |
-| 1 tablespoon of salt              | 2 plain bagels                    |
-|                                   |                                   |
-| ½ lb of shaved steak              | 4 eggs                            |
-|                                   |                                   |
-| 1 tablespoon of Worcestershire    | 4 slices of cheese                |
-| sauce                             |                                   |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+- 4 Tablespoons of unsalted butter       
+                                                                      
+ - 1 small, diced onion              
+                                                                      
+- 1 tablespoon of salt                                
+                                                                     
+- ½ lb of shaved steak                                       
+                                                                    
+- 1 tablespoon of Worcestershire                   
+sauce   
 
-**Required Cookware:**
+-  ½ teaspoon of garlic powder  
+   
+-  ½ teaspoon of ground black pepper     
+
+- 2 plain bagels                   
+
+- 4 eggs    
+
+- 4 slices of cheese 
+
+## Required Cookware:
 
 A skillet
 
-**Instructions:**
+## Instructions:**
 
 1.  Melt a tablespoon of butter in a skillet and add the onion and ¼
     teaspoon of salt. Cook until slightly browned
