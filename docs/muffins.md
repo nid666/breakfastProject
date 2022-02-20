@@ -30,19 +30,27 @@ Pictured above is the final vegan apple oatmeal muffins
 
 ## Directions:
 
-1.  Preheat the oven to 375 and grease the muffin cups
+1.  Preheat the oven to 375 
 
-2.  In the saucepan, sauté the apples, tablespoon of light brown sugar,
-    and the cinnamon on medium heat for 5 minutes then set aside
+2.  Grease the muffin cups
 
-3.  Stir the oats, brown sugar, salt, baking powder, and baking soda
+3.  In the saucepan, sauté the apples, tablespoon of light brown sugar,
+    and the cinnamon on medium heat for 5 minutes  
+
+4.  Set aside the ingredients
+
+5.  Stir the oats, brown sugar, salt, baking powder, and baking soda
     into the mixing bowl.
 
-4.  Add the applesauce, vegetable oil, and the cider and begin stirring
+6.  Add the applesauce, vegetable oil, and the cider 
 
-5.  Add the chopped apple and fill the muffin cups to 3/4ths full
+7.  Begin stirring
 
-6.  Bake for 18 minutes
+8.  Add the chopped apple in
+
+9.  Fill the muffin cups to 3/4ths full
+
+10.  Bake for 18 minutes
 
 
 {% include footer.md %}

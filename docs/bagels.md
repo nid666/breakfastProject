@@ -34,29 +34,44 @@ sauce
 
 ## Directions:
 
-1.  Melt a tablespoon of butter in a skillet and add the onion and ¼
-    teaspoon of salt. Cook until slightly browned
+1.  Melt a tablespoon of butter in a skillet
 
-2.  Toss the shaved steak in the Worcestershire sauce, garlic powder,
+2.  Add the onion and ¼ teaspoon of salt
+
+3.  Cook until slightly browned
+
+4.  Toss the shaved steak in the Worcestershire sauce, garlic powder,
     and black pepper
 
-3.  Remove the onions, raise the heat and add the shaved steak in one
-    layer
+5.  Remove the onions from the heat
+ 
+6.  Raise the heat 
 
-4.  Cook for 2 minutes without stirring and then stir and cook the steak
-    completely
+7.  Add the shaved steak in one layer
 
-5.  Toast the bagels and spread 1 tablespoon of butter
+8.  Cook for 2 minutes without stirring
 
-6.  Melt two tablespoons of butter in the pan on low heat, add half of
-    the eggs and cook, stirring to create an omelet
+9.  Stir and cook the steak completely
 
-7.  Fold the omelet over on itself twice and add 2 slices of cheese
+10.  Toast the bagels
 
-8.  Repeat the above two steps for all the eggs and cheese
+11. Spread 1 tablespoon of butter
 
-9.  Divide the steak and onions among the 2 bagels and add the egg and
-    cheese
+12.  Melt two tablespoons of butter in the pan on low heat
+
+13.  Add half of the eggs and cook
+
+14. Stir to create an omelet
+
+15.  Fold the omelet over on itself twice
+
+16.  Add 2 slices of cheese
+
+17.  Repeat the above two steps for all the eggs and cheese
+
+18.  Divide the steak and onions among the 2 bagels 
+
+19. Add the egg and cheese
 
 
 {% include footer.md %}

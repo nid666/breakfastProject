@@ -39,11 +39,13 @@ waffle iron
 
 3.  In the small bowl mix the oil, oak milk, and vanilla
 
-4.  Pour the small bowl into the medium bowl and mix until texture is
-    smooth
+4.  Pour the small bowl into the medium bowl a
 
-5.  Add this batter into the waffle iron, then cook until browned on the
-    outside
+5.  Mix until texture is smooth
+
+6.  Add this batter into the waffle iron
+
+7.  Cook until browned on the outside
 
 {% include footer.md %}
 

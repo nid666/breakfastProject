@@ -25,11 +25,17 @@
 
 ## Directions:
 
-1.  In the large bowl, mix the flour, baking powder, salt, and sugar.
-    Pour the milk, eggs, and melted butter in the center and begin to
-    stir until it reaches a smooth consistency
+1.  In the large bowl, mix the flour, baking powder, salt, and sugar
 
-2.  Heat an oiled pan over medium heat. Pour 1/4^th cup of batter onto it and cook until browned on both sides.
+2.  Pour the milk, eggs, and melted butter in the center 
+
+3.  Begin to stir until it reaches a smooth consistency
+
+4.  Heat an oiled pan over medium heat
+
+5.  Pour 1/4^th cup of batter onto it 
+
+6.  Cook until browned on both sides
 
 {% include footer.md %}
 
