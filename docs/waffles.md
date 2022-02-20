@@ -1,6 +1,6 @@
 # Vegan waffles
 
-![The vegan waffles](images/media/image5.jpg)
+![The vegan waffles](images/media/image4.jpg)
 
 Pictured above is the completed vegan waffles made if made in a Belgium
 waffle iron
