@@ -1,6 +1,6 @@
 # Steak, egg, and cheese bagel (Non Vegan)
 
-## ![A cheeseburger on a plate Description automatically generated](images/media/image3.jpg){width="6.0in" height="4.225694444444445in"}
+## ![A cheeseburger on a plate Description automatically generated](images/media/image3.jpg)
 
 Pictured above is the final result of the steak, egg, and cheese bagel
 recipe

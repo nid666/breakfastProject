@@ -1,9 +1,6 @@
 # Vegan waffles
 
-![A picture containing food, plate, fruit, different Description
-automatically
-generated](images/media/image5.jpg){width="3.619047462817148in"
-height="5.419524278215223in"}
+![The vegan waffles](images/media/image5.jpg)
 
 Pictured above is the completed vegan waffles made if made in a Belgium
 waffle iron

@@ -1,7 +1,6 @@
 # Vegan Apple Oatmeal Muffins
 
-![](images/media/image4.jpeg){width="3.4166666666666665in"
-height="4.778587051618548in"}
+![](images/media/image4.jpeg)
 
 Pictured above is the final vegan apple oatmeal muffins
 
