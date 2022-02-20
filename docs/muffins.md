@@ -22,11 +22,11 @@ Pictured above is the final vegan apple oatmeal muffins
 
 ## Required Cookware
 
-Muffin cups
+- Muffin cups
 
-Saucepan
+- Saucepan
 
-Mixing bowl
+- Mixing bowl
 
 ## Directions:
 
@@ -45,3 +45,4 @@ Mixing bowl
 6.  Bake for 18 minutes
 
 
+{% include footer.md %}

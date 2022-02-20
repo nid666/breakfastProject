@@ -24,11 +24,11 @@ waffle iron
 
 ## Required Cookware:
 
-Waffle Iron
+- Waffle Iron
 
-Medium bowl
+- Medium bowl
 
-Small bowl
+- Small bowl
 
 ## Directions:
 
@@ -44,5 +44,7 @@ Small bowl
 
 5.  Add this batter into the waffle iron, then cook until browned on the
     outside
+
+{% include footer.md %}
 
 

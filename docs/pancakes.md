@@ -17,11 +17,11 @@
 
 ## Required Cookware:
 
-1 Large Bowl
+- 1 Large Bowl
 
-1 Large spoon for stirring
+- 1 Large spoon for stirring
 
-1 Pan
+- 1 Pan
 
 ## Directions:
 
@@ -30,6 +30,8 @@
     stir until it reaches a smooth consistency
 
 2.  Heat an oiled pan over medium heat. Pour 1/4^th cup of batter onto it and cook until browned on both sides.
+
+{% include footer.md %}
 
 
 

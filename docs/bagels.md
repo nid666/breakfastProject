@@ -30,7 +30,7 @@ sauce
 
 ## Required Cookware:
 
-A skillet
+- A skillet
 
 ## Directions:
 
@@ -58,6 +58,5 @@ A skillet
 9.  Divide the steak and onions among the 2 bagels and add the egg and
     cheese
 
-## 
 
-
+{% include footer.md %}
