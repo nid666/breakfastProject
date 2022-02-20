@@ -7,20 +7,19 @@ Pictured above is the final vegan apple oatmeal muffins
 
 ## Ingredients
 
-+-----------------------------------+-----------------------------------+
-| 1 medium apple                    | 1/3rd cup brown sugar             |
-|                                   |                                   |
-| 1 tablespoon light brown sugar    | ½ teaspoon of salt                |
-|                                   |                                   |
-| 1 teaspoon cinnamon               | 2 teaspoons of baking powder      |
-|                                   |                                   |
-| 1 cup all-purpose flour           | 1/3rd cup refined coconut oil     |
-|                                   |                                   |
-| ¼ cup whole wheat flour           | ½ cup unsweetened applesauce      |
-|                                   |                                   |
-| ½ cup rolled oats                 | 1/3rd cup apple cider             |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+- 1 medium apple     
+- 1 tablespoon light brown sugar 
+- ½ teaspoon of salt              
+- 1 teaspoon cinnamon         
+- 2 teaspoons of baking powder   
+- 1 cup all-purpose flour       
+- 1/3rd cup refined coconut oil   
+- ¼ cup whole wheat flour  
+- ½ cup unsweetened applesauce                                    
+- ½ cup rolled oats
+- 1/3rd cup brown sugar     
+- 1/3rd cup apple cider             
+
 
 ## Required Cookware
 

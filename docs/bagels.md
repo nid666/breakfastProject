@@ -32,7 +32,7 @@ sauce
 
 A skillet
 
-## Instructions:**
+## Directions:
 
 1.  Melt a tablespoon of butter in a skillet and add the onion and ¼
     teaspoon of salt. Cook until slightly browned

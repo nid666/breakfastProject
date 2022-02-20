@@ -1,4 +1,4 @@
-## Pancakes (non vegan)
+# Pancakes (non vegan)
 
 ![](images/media/image2.png){width="3.1805555555555554in"
 height="3.1805555555555554in"}
@@ -18,9 +18,10 @@ height="3.1805555555555554in"}
 +===================================+===================================+
 +-----------------------------------+-----------------------------------+
 
-**Ingredients:**
+## Ingredients:
 
-**Required Cookware:**
+
+## Required Cookware:
 
 1 Large Bowl
 

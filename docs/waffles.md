@@ -1,4 +1,4 @@
-## Vegan waffles
+# Vegan waffles
 
 ![A picture containing food, plate, fruit, different Description
 automatically
@@ -8,20 +8,24 @@ height="5.419524278215223in"}
 Pictured above is the completed vegan waffles made if made in a Belgium
 waffle iron
 
-**Ingredients:**
+## Ingredients:
+- 1 ½ cup Flour  
 
-+-----------------------------------+-----------------------------------+
-| 1 ½ cup Flour                     | 4 tablespoons vegetable oil       |
-|                                   |                                   |
-| 1 ½ cups Oat MIlk                 | ½ teaspoon cinnamon               |
-|                                   |                                   |
-| 2 teaspoons Baking Powder         | 2 teaspoons vanilla               |
-|                                   |                                   |
-| 2 tablespoons sugar               | ½ teaspoon salt                   |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+- 1 ½ cups Oat Milk         
 
-**Required Cookware:**
+- 2 teaspoons Baking Powder         
+
+- 2 tablespoons sugar
+ 
+- 4 tablespoons vegetable oil
+ 
+- ½ teaspoon cinnamon
+   
+- 2 teaspoons vanilla
+    
+- ½ teaspoon salt                    
+
+## Required Cookware:
 
 Waffle Iron
 
@@ -29,7 +33,7 @@ Medium bowl
 
 Small bowl
 
-**Directions:**
+## Directions:
 
 1.  Preheat the waffle iron
 
