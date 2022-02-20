@@ -4,13 +4,13 @@
 
 **Pictured above is the final result of the pancakes**
 
-1 ½ cups of flour               
-1 ¼ cups of milk                  
-3 ½ teaspoons of baking powder 
-1 egg    
-¼ teaspoon of salt        
-3 tablespoons of melted butter   
-1 tablespoon of white sugar                                              
+- 1 ½ cups of flour               
+- 1 ¼ cups of milk                  
+- 3 ½ teaspoons of baking powder 
+- 1 egg    
+- ¼ teaspoon of salt        
+- 3 tablespoons of melted butter   
+- 1 tablespoon of white sugar                                              
 
 
 ## Ingredients:
